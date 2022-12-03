@@ -47,7 +47,7 @@ def tambah(*t):
     data[nama] = nim, uts, uas, tugas, akhir
     return
 ```
-![gambar1](gambar/gambargg5.png)
+![gambar1](gambar/01.png)
 
 - Fungsi untuk menampilan data 
 ```
@@ -74,7 +74,7 @@ def tampilkan(*l):
         print("="*78)
     return
 ```
-![gambar1](gambar/gambargg7.png)
+![gambar1](gambar/02.png)
 
 - Fungsi untuk menghapus data berdasarkan nama
 ```
@@ -87,7 +87,7 @@ def hapus(*nama):
         print("Nama {0} Tidak Ditemukan".format(nama))
     return
 ```
-![gambar1](gambar/gambargg13.png)
+![gambar1](gambar/03.png)
 
 - Fungsi untuk mengubah data berdasarkan nama
 ```
@@ -105,7 +105,11 @@ def ubah(*nama):
         print("Nama {0} tidak ditemukan".format(nama))
     return
 ```
-![gambar1](gambar/gambargg11.png)
+![gambar1](gambar/04.png)
+
+- Tampilan jika fungsi dijalankan
+![gambar1](gambar/05.png)
+![gambar1](gambar/06.png)
 
 # FLOWCHART PRAKTIKUM 7
 
