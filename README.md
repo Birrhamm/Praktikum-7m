@@ -110,7 +110,3 @@ def ubah(*nama):
 - Tampilan jika fungsi dijalankan
 ![gambar1](gambar/05.png)
 ![gambar1](gambar/06.png)
-
-# FLOWCHART PRAKTIKUM 7
-
-![gambar1](gambar/gambar1.png)
